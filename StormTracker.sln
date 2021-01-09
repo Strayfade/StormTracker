@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StormTracker", "StormTracker\StormTracker.csproj", "{6C43C6C7-5D47-4F35-9AB4-F55FC8544168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C43C6C7-5D47-4F35-9AB4-F55FC8544168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C43C6C7-5D47-4F35-9AB4-F55FC8544168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C43C6C7-5D47-4F35-9AB4-F55FC8544168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C43C6C7-5D47-4F35-9AB4-F55FC8544168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468D03B4-D2B7-422B-A05F-B384331E4D6B}
+	EndGlobalSection
+EndGlobal
